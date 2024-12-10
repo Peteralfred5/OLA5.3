@@ -8,6 +8,8 @@ library(ggplot2)
 library(dplyr)
 library(tidyverse)
 
+
+# Alt lavet af Andreas
 #### OPG 3.1 ####
 
 df <- read.csv("regnskaber_industri_transport_byg_5_25000_ansatte_anonym.csv", 
